@@ -1,5 +1,7 @@
 # GeorgNordhausen.github.io
 
-[Aquarium kaufen](http://www.aquariumkaufen24.de)
+[Aquarien Vergleich](http://www.aquariumkaufen24.de)
+
+[Aquarium kaufen](http://aquarium-kaufen.me)
 
 [Aquarium Einsteigerset Empfehlung](https://georgnordhausen.github.io/index.html)
